@@ -10,7 +10,7 @@ We start out making the class for the consonant tables.
 
 **TODO (in prioritized order)**
 
-* Function to add new character. We use the IPA numbers from Wikipedia as IDs. See for example [this site](https://en.wikipedia.org/wiki/Voiceless_palato-alveolar_sibilant) 
+* Function to add new character. We use the IPA numbers as IDs. See [this PDF](https://www.internationalphoneticassociation.org/sites/default/files/IPA_Number_chart_(C)2005.pdf) for the numbers.
 * Function to remove character.
 * Function to display/update table.
 * Function to replace character with custom image (needed for IPA Trainer quizzes).
