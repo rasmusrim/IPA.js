@@ -6,7 +6,7 @@ It is a part of making remaking the application the IPA Trainer, but is supposed
 
 ## Consonant tables
 
-We start out making the class for the consonant tables.
+We start out making the class for the consonant tables. The PHP-code for creating the tables in the old IPA Trainer can be found in the file ipa.php.
 
 **TODO (in prioritized order)**
 
