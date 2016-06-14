@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		
+		<script src="data/consonants.data.js"></script>
+		<script src="classes/consonant.class.js"></script>
+		<script src="classes/consonant_table.class.js"></script>
+
+	</head>
+
+	<body>
+
+		<script>
+			var table = new ConsonantTable();
+
+			var consonant = data.getConsonant(118);
+			table.addConsonant(consonant);
+
+			console.log(table);
+
+			table.removeConsonant(consonant.getIPANumber());
+
+			console.log(table);
+
+		</script>
+	</body>
+</html>
+
